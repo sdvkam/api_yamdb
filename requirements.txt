@@ -1,5 +1,5 @@
 requests==2.26.0
-Django==2.2.16
+Django==2.2.28
 djangorestframework==3.12.4
 djangorestframework-simplejwt==4.7.2
 PyJWT==2.1.0
