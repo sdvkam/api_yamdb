@@ -343,3 +343,6 @@ python3 manage.py runserver
 - Django Rest Framework
 - Django-Filter
 - PyJWT
+
+## 5. Что планируется добавить
+- Дописать функцию переноса тестовых данных в базу данных
